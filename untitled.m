@@ -51,3 +51,5 @@ xlabel('n (Number of Packets in NC Block)');
 ylabel('Average AoI per Packet');
 title(['AoI per Packet vs n (q = ' num2str(q) ', R = ' num2str(R) ')']);
 grid on;
+
+%okey
