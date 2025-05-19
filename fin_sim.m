@@ -2,7 +2,7 @@ clc; clear;
 
 R             = 4;       
 n             = 4;       
-Ccap          = inf;        
+Ccap          = 5;        
 E_tx          = 1;        
 
 lambda_U      = 0.02;     
